@@ -30,13 +30,14 @@ const Hero = () => {
             </button>
           </div>
 
-          {/* Mountain Image Placeholder */}
-          <div className="relative mx-auto max-w-3xl">
-            <div className="aspect-video bg-gradient-to-br from-purple-200 to-teal-200 rounded-2xl shadow-2xl flex items-center justify-center">
-              <div className="text-center text-gray-600">
-                <div className="text-6xl mb-4">🏔️</div>
-                <p className="text-lg">Stunning Alpine Views</p>
-              </div>
+          {/* Landing Page Image */}
+          <div className="relative mx-auto max-w-4xl">
+            <div className="aspect-video rounded-2xl shadow-2xl overflow-hidden">
+              <img 
+                src="/lovable-uploads/8b4d1588-7096-4931-b243-9db12142cd6d.png" 
+                alt="Alpine landscape with snow-capped mountains and green meadows"
+                className="w-full h-full object-cover"
+              />
             </div>
           </div>
         </div>

@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div>
             <h3 className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-teal-400 bg-clip-text text-transparent mb-4">
-              Alpine Serenity
+              La Source du Yi
             </h3>
             <p className="text-gray-400 leading-relaxed">
               Discover peace and wellness in the heart of the French Alps through meditation, qi-gong, and holistic practices.
@@ -55,9 +55,17 @@ const Footer = () => {
           </div>
         </div>
         
+        {/* Logo Section */}
         <div className="border-t border-gray-800 pt-8 text-center">
+          <div className="mb-6 flex justify-center">
+            <img 
+              src="/lovable-uploads/15a74bb0-283d-4b6b-8ff6-19ac88d4bd5f.png" 
+              alt="La Source du Yi Logo"
+              className="h-20 w-auto"
+            />
+          </div>
           <p className="text-gray-400">
-            © 2024 Alpine Serenity. All rights reserved. | Privacy Policy | Terms of Service
+            © 2024 La Source du Yi. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>

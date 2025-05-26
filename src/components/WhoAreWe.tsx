@@ -8,21 +8,21 @@ const WhoAreWe = () => {
       name: "Sophie Laurent",
       role: "Meditation Master & Founder",
       bio: "With over 15 years of meditation practice and training in Tibetan monasteries, Sophie brings ancient wisdom to modern wellness.",
-      image: "/placeholder.svg",
+      image: "/lovable-uploads/45c321e9-fb26-4af7-b8a1-dd630752279f.png",
       initials: "SL"
     },
     {
       name: "Chen Wei",
       role: "Qi-Gong Instructor",
       bio: "A certified Qi-Gong master from Beijing, Chen combines traditional Chinese practices with contemporary healing methods.",
-      image: "/placeholder.svg", 
+      image: "/lovable-uploads/cead2c3f-6f22-4e99-839b-3d31e929459d.png", 
       initials: "CW"
     },
     {
       name: "Isabella Rossi",
       role: "Wellness Coordinator",
       bio: "Former wellness director at luxury spas across Europe, Isabella creates personalized retreat experiences for each guest.",
-      image: "/placeholder.svg",
+      image: "/lovable-uploads/d35077a6-12d3-463a-8019-4863b416b8f7.png",
       initials: "IR"
     }
   ];
